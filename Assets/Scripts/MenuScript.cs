@@ -5,15 +5,33 @@ using UnityEngine.SceneManagement;
 
 public class MenuScript : MonoBehaviour
 {
+
+    public GameObject PanelExit;
+    private void Update()
+    {
+        if (PanelExit == false || Input.GetKeyDown(KeyCode.Escape))
+        {
+            PanelExit.SetActive(true);
+        }
+       
+        
+    }
     public void OnClickPlay()
     {
         SceneManager.LoadScene(1);
     }
+
+    public void NoExit()
+    {
+        PanelExit.SetActive(false);
+    }
+    public void Exit_menu()
+    {
+        Application.Quit();
+    }
     public void OnClickExit()
     {
-         
-        Application.Quit();
-
+        PanelExit.SetActive(true);
     }
 
 
