@@ -13,9 +13,13 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 movement;
     #endregion
 
+    Animator anim;
+
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -23,7 +27,34 @@ public class PlayerMovement : MonoBehaviour
         // Input
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
+
+        if (Input.GetAxis("Horizontal") == 0 && Input.GetAxis("Vertical") == 0)
+        {
+            anim.SetInteger("anima", 1);
+        }
+        else
+        {
+            Flip();
+            anim.SetInteger("anima", 2);
+        }
+
+        if (Input.GetKey(KeyCode.Space))
+        {
+            anim.SetInteger("anima", 3);
+        }
     }
 
+    void Flip()
+    {
+        if (Input.GetAxis("Horizontal") < 0)
+        {
+            transform.localRotation = Quaternion.Euler(0, 0, 0);
+        }
+
+        if (Input.GetAxis("Horizontal") > 0)
+        {
+            transform.localRotation = Quaternion.Euler(0, 180, 0);
+        }
+    }
     private void FixedUpdate() => rb.MovePosition(rb.position + Time.fixedDeltaTime * movementSpeed * movement);
 }

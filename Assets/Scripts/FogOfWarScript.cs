@@ -40,7 +40,7 @@ public class FogOfWarScript : MonoBehaviour
                 else
                 {
                     m_colors[i].a = 1;
-}
+                }
             }
             UpdateColor();
         }
