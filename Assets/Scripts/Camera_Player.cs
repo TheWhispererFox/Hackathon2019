@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Camera_Player : MonoBehaviour
-{/*
+{
     public GameObject Player;
     private Vector3 offset;
     void Start()
@@ -15,5 +15,5 @@ public class Camera_Player : MonoBehaviour
     void LateUpdate()
     {
         transform.position = Player.transform.position + offset;
-    }*/
+    }
 }
