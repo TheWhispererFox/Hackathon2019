@@ -9,10 +9,7 @@ public class MenuScript : MonoBehaviour
     public GameObject PanelExit;
     private void Update()
     {
-        if (PanelExit == false || Input.GetKeyDown(KeyCode.Escape))
-        {
-            PanelExit.SetActive(true);
-        }
+        
        
         
     }
