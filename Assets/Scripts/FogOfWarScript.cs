@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -53,7 +53,7 @@ public class FogOfWarScript : MonoBehaviour
         m_colors = new Color[m_vertices.Length];
         for (int i = 0; i < m_colors.Length; i++)
         {
-            m_colors[i] = Color.green;
+            m_colors[i] = Color.black;
         }
         UpdateColor();
     }
