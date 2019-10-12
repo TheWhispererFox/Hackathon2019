@@ -37,6 +37,10 @@ public class FogOfWarScript : MonoBehaviour
                     float alpha = Mathf.Min(m_colors[i].a, dist / m_radiusSqr);
                     m_colors[i].a = alpha;
                 }
+                else
+                {
+                    m_colors[i].a = 1;
+}
             }
             UpdateColor();
         }
@@ -49,7 +53,7 @@ public class FogOfWarScript : MonoBehaviour
         m_colors = new Color[m_vertices.Length];
         for (int i = 0; i < m_colors.Length; i++)
         {
-            m_colors[i] = Color.black;
+            m_colors[i] = Color.green;
         }
         UpdateColor();
     }
