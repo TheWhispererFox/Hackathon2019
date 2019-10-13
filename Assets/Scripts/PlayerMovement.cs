@@ -38,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
             anim.SetInteger("anima", 2);
         }
 
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKey(KeyCode.Mouse0))
         {
             anim.SetInteger("anima", 3);
             movement.x = 0;

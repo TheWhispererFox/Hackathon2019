@@ -42,7 +42,13 @@ public class Menu_inGame : MonoBehaviour
                 timer = 0;
                 Cursor.visible = false;
             }
-            if (GUI.Button(new Rect((float)(Screen.width / 2), (float)(Screen.height / 2)-100f, 150f, 45f), "В Меню"))
+            if (GUI.Button(new Rect((float)(Screen.width / 2), (float)(Screen.height / 2) - 100f, 150f, 45f), "Перезарустить"))
+            {
+                ispuse = false;
+                timer = 0;
+                SceneManager.LoadScene(1);
+            }
+            if (GUI.Button(new Rect((float)(Screen.width / 2), (float)(Screen.height / 2)-50f, 150f, 45f), "В Меню"))
             {
                 ispuse = false;
                 timer = 0;

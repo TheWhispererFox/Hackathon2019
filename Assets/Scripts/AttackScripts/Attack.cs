@@ -5,7 +5,7 @@ using UnityEngine;
 public class Attack : MonoBehaviour
 {
     private float timeBtwAttack;
-    private float startTimeBtwAttack;
+    public float startTimeBtwAttack;
 
     public Transform attackPos;
     public float attackRange;
@@ -24,7 +24,7 @@ public class Attack : MonoBehaviour
     {
         if (timeBtwAttack <= 0)
         {
-            if (Input.GetKey(KeyCode.Space))
+            if (Input.GetKey(KeyCode.Mouse0))
             {
                 Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange, whatIsEnemies);
                 for (int i = 0; i < enemiesToDamage.Length; i++)
