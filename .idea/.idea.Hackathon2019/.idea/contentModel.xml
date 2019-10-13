@@ -7,6 +7,13 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="AttackScripts" t="Include">
+            <e p="Attack.cs" t="Include" />
+            <e p="Circle.cs" t="Include" />
+            <e p="DestructibleEnvi.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+          </e>
+          <e p="BoardManager.cs" t="Include" />
           <e p="Camera_Player.cs" t="Include" />
           <e p="FogOfWarScript.cs" t="Include" />
           <e p="MenuScript.cs" t="Include" />
