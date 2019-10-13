@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465785, g: 0.49641252, b: 0.574817, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -130,7 +130,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1090406}
   - component: {fileID: 1090405}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_66
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -779,7 +779,7 @@ GameObject:
   - component: {fileID: 9295310}
   - component: {fileID: 9295311}
   - component: {fileID: 9295312}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (184)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -887,7 +887,7 @@ GameObject:
   - component: {fileID: 10186059}
   - component: {fileID: 10186060}
   - component: {fileID: 10186061}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (144)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1238,7 +1238,7 @@ GameObject:
   - component: {fileID: 19040244}
   - component: {fileID: 19040245}
   - component: {fileID: 19040246}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (102)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1750,7 +1750,7 @@ GameObject:
   m_Component:
   - component: {fileID: 25339335}
   - component: {fileID: 25339336}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1832,7 +1832,7 @@ GameObject:
   - component: {fileID: 26638533}
   - component: {fileID: 26638534}
   - component: {fileID: 26638535}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (75)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2263,7 +2263,7 @@ GameObject:
   m_Component:
   - component: {fileID: 38520163}
   - component: {fileID: 38520164}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3155,7 +3155,7 @@ GameObject:
   - component: {fileID: 66981062}
   - component: {fileID: 66981063}
   - component: {fileID: 66981064}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (258)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3991,7 +3991,7 @@ GameObject:
   m_Component:
   - component: {fileID: 77432546}
   - component: {fileID: 77432547}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4072,7 +4072,7 @@ GameObject:
   m_Component:
   - component: {fileID: 79585758}
   - component: {fileID: 79585759}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4559,7 +4559,7 @@ GameObject:
   - component: {fileID: 86245786}
   - component: {fileID: 86245787}
   - component: {fileID: 86245788}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5071,7 +5071,7 @@ GameObject:
   m_Component:
   - component: {fileID: 92101056}
   - component: {fileID: 92101057}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5476,7 +5476,7 @@ GameObject:
   m_Component:
   - component: {fileID: 96822177}
   - component: {fileID: 96822178}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5558,7 +5558,7 @@ GameObject:
   - component: {fileID: 97293216}
   - component: {fileID: 97293215}
   - component: {fileID: 97293217}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5746,7 +5746,7 @@ GameObject:
   m_Component:
   - component: {fileID: 102071493}
   - component: {fileID: 102071492}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_68
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5827,7 +5827,7 @@ GameObject:
   m_Component:
   - component: {fileID: 102740423}
   - component: {fileID: 102740422}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_65
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6476,7 +6476,7 @@ GameObject:
   - component: {fileID: 107837632}
   - component: {fileID: 107837631}
   - component: {fileID: 107837633}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6989,7 +6989,7 @@ GameObject:
   - component: {fileID: 117512887}
   - component: {fileID: 117512888}
   - component: {fileID: 117512889}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (142)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7097,7 +7097,7 @@ GameObject:
   - component: {fileID: 118148429}
   - component: {fileID: 118148428}
   - component: {fileID: 118148430}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: house
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7285,7 +7285,7 @@ GameObject:
   - component: {fileID: 120864060}
   - component: {fileID: 120864061}
   - component: {fileID: 120864062}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (269)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7636,7 +7636,7 @@ GameObject:
   - component: {fileID: 125883362}
   - component: {fileID: 125883361}
   - component: {fileID: 125883363}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7825,7 +7825,7 @@ GameObject:
   - component: {fileID: 128366312}
   - component: {fileID: 128366311}
   - component: {fileID: 128366313}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8013,7 +8013,7 @@ GameObject:
   m_Component:
   - component: {fileID: 130546966}
   - component: {fileID: 130546967}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8176,7 +8176,7 @@ GameObject:
   - component: {fileID: 133915420}
   - component: {fileID: 133915421}
   - component: {fileID: 133915422}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (254)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9094,7 +9094,7 @@ GameObject:
   - component: {fileID: 152609996}
   - component: {fileID: 152609997}
   - component: {fileID: 152609998}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (92)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9202,7 +9202,7 @@ GameObject:
   - component: {fileID: 153729630}
   - component: {fileID: 153729631}
   - component: {fileID: 153729632}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (150)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10119,7 +10119,7 @@ GameObject:
   m_Component:
   - component: {fileID: 166927323}
   - component: {fileID: 166927324}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10282,7 +10282,7 @@ GameObject:
   - component: {fileID: 170555444}
   - component: {fileID: 170555445}
   - component: {fileID: 170555446}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (248)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10389,7 +10389,7 @@ GameObject:
   m_Component:
   - component: {fileID: 173722000}
   - component: {fileID: 173722001}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10876,7 +10876,7 @@ GameObject:
   - component: {fileID: 179880547}
   - component: {fileID: 179880548}
   - component: {fileID: 179880549}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (158)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11814,7 +11814,7 @@ GameObject:
   - component: {fileID: 190011774}
   - component: {fileID: 190011773}
   - component: {fileID: 190011775}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12003,7 +12003,7 @@ GameObject:
   - component: {fileID: 194854878}
   - component: {fileID: 194854877}
   - component: {fileID: 194854879}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12273,7 +12273,7 @@ GameObject:
   - component: {fileID: 198877451}
   - component: {fileID: 198877452}
   - component: {fileID: 198877453}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (113)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12623,7 +12623,7 @@ GameObject:
   m_Component:
   - component: {fileID: 203010811}
   - component: {fileID: 203010812}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12786,7 +12786,7 @@ GameObject:
   - component: {fileID: 205945622}
   - component: {fileID: 205945623}
   - component: {fileID: 205945624}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (143)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12894,7 +12894,7 @@ GameObject:
   - component: {fileID: 206169855}
   - component: {fileID: 206169856}
   - component: {fileID: 206169857}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (154)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13164,7 +13164,7 @@ GameObject:
   - component: {fileID: 210434352}
   - component: {fileID: 210434353}
   - component: {fileID: 210434354}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (145)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13433,7 +13433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 216427597}
   - component: {fileID: 216427598}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13688,7 +13688,7 @@ Transform:
   m_Children:
   - {fileID: 338514315}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &220752274
 MonoBehaviour:
@@ -13940,7 +13940,7 @@ GameObject:
   m_Component:
   - component: {fileID: 222517944}
   - component: {fileID: 222517945}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14183,7 +14183,7 @@ GameObject:
   m_Component:
   - component: {fileID: 225430324}
   - component: {fileID: 225430325}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14669,7 +14669,7 @@ GameObject:
   m_Component:
   - component: {fileID: 231637146}
   - component: {fileID: 231637147}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14751,7 +14751,7 @@ GameObject:
   - component: {fileID: 233216408}
   - component: {fileID: 233216409}
   - component: {fileID: 233216410}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15183,7 +15183,7 @@ GameObject:
   - component: {fileID: 239498242}
   - component: {fileID: 239498243}
   - component: {fileID: 239498244}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (107)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15452,7 +15452,7 @@ GameObject:
   m_Component:
   - component: {fileID: 242263195}
   - component: {fileID: 242263194}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_11 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15615,7 +15615,7 @@ GameObject:
   - component: {fileID: 245309307}
   - component: {fileID: 245309306}
   - component: {fileID: 245309308}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16290,7 +16290,7 @@ GameObject:
   - component: {fileID: 266010157}
   - component: {fileID: 266010158}
   - component: {fileID: 266010159}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16560,7 +16560,7 @@ GameObject:
   - component: {fileID: 268707772}
   - component: {fileID: 268707771}
   - component: {fileID: 268707773}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17801,7 +17801,7 @@ GameObject:
   m_Component:
   - component: {fileID: 289442741}
   - component: {fileID: 289442742}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17882,7 +17882,7 @@ GameObject:
   m_Component:
   - component: {fileID: 289764801}
   - component: {fileID: 289764802}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18692,7 +18692,7 @@ GameObject:
   m_Component:
   - component: {fileID: 300858355}
   - component: {fileID: 300858356}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19341,7 +19341,7 @@ GameObject:
   - component: {fileID: 317052353}
   - component: {fileID: 317052354}
   - component: {fileID: 317052355}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (168)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19935,7 +19935,7 @@ GameObject:
   - component: {fileID: 330378829}
   - component: {fileID: 330378830}
   - component: {fileID: 330378831}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20042,7 +20042,7 @@ GameObject:
   m_Component:
   - component: {fileID: 332245656}
   - component: {fileID: 332245655}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_11 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20315,7 +20315,7 @@ GameObject:
   m_Component:
   - component: {fileID: 345992312}
   - component: {fileID: 345992313}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21044,7 +21044,7 @@ GameObject:
   m_Component:
   - component: {fileID: 352532506}
   - component: {fileID: 352532507}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22421,7 +22421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 385535673}
   - component: {fileID: 385535674}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22827,7 +22827,7 @@ GameObject:
   - component: {fileID: 395037238}
   - component: {fileID: 395037237}
   - component: {fileID: 395037239}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23096,7 +23096,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400203813}
   - component: {fileID: 400203814}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23178,7 +23178,7 @@ GameObject:
   - component: {fileID: 400455347}
   - component: {fileID: 400455348}
   - component: {fileID: 400455349}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (135)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23447,7 +23447,7 @@ GameObject:
   m_Component:
   - component: {fileID: 405262655}
   - component: {fileID: 405262656}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23609,7 +23609,7 @@ GameObject:
   m_Component:
   - component: {fileID: 406627065}
   - component: {fileID: 406627066}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24582,7 +24582,7 @@ GameObject:
   - component: {fileID: 424198477}
   - component: {fileID: 424198478}
   - component: {fileID: 424198479}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24771,7 +24771,7 @@ GameObject:
   - component: {fileID: 427135506}
   - component: {fileID: 427135507}
   - component: {fileID: 427135508}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25364,7 +25364,7 @@ GameObject:
   m_Component:
   - component: {fileID: 434825600}
   - component: {fileID: 434825601}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25770,7 +25770,7 @@ GameObject:
   - component: {fileID: 437778467}
   - component: {fileID: 437778468}
   - component: {fileID: 437778469}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25878,7 +25878,7 @@ GameObject:
   - component: {fileID: 438357989}
   - component: {fileID: 438357988}
   - component: {fileID: 438357990}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26066,7 +26066,7 @@ GameObject:
   m_Component:
   - component: {fileID: 439205546}
   - component: {fileID: 439205547}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26148,7 +26148,7 @@ GameObject:
   - component: {fileID: 440591226}
   - component: {fileID: 440591225}
   - component: {fileID: 440591227}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_67 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26256,7 +26256,7 @@ GameObject:
   - component: {fileID: 440808528}
   - component: {fileID: 440808529}
   - component: {fileID: 440808530}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (140)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26525,7 +26525,7 @@ GameObject:
   m_Component:
   - component: {fileID: 443338790}
   - component: {fileID: 443338791}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27011,7 +27011,7 @@ GameObject:
   m_Component:
   - component: {fileID: 450503759}
   - component: {fileID: 450503760}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27579,7 +27579,7 @@ GameObject:
   - component: {fileID: 462466069}
   - component: {fileID: 462466070}
   - component: {fileID: 462466071}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27848,7 +27848,7 @@ GameObject:
   m_Component:
   - component: {fileID: 465548128}
   - component: {fileID: 465548129}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28011,7 +28011,7 @@ GameObject:
   - component: {fileID: 468894691}
   - component: {fileID: 468894690}
   - component: {fileID: 468894692}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28118,7 +28118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 468903684}
   - component: {fileID: 468903685}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28200,7 +28200,7 @@ GameObject:
   - component: {fileID: 469960443}
   - component: {fileID: 469960442}
   - component: {fileID: 469960444}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28712,7 +28712,7 @@ GameObject:
   m_Component:
   - component: {fileID: 477450345}
   - component: {fileID: 477450346}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28875,7 +28875,7 @@ GameObject:
   - component: {fileID: 478525077}
   - component: {fileID: 478525078}
   - component: {fileID: 478525079}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (173)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29549,7 +29549,7 @@ GameObject:
   m_Component:
   - component: {fileID: 485839871}
   - component: {fileID: 485839870}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_11 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29631,7 +29631,7 @@ GameObject:
   - component: {fileID: 486598927}
   - component: {fileID: 486598928}
   - component: {fileID: 486598929}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30468,7 +30468,7 @@ GameObject:
   - component: {fileID: 496510880}
   - component: {fileID: 496510881}
   - component: {fileID: 496510882}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (180)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30657,7 +30657,7 @@ GameObject:
   - component: {fileID: 500225934}
   - component: {fileID: 500225935}
   - component: {fileID: 500225936}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (106)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30846,7 +30846,7 @@ GameObject:
   - component: {fileID: 503003264}
   - component: {fileID: 503003265}
   - component: {fileID: 503003266}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (188)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31277,7 +31277,7 @@ GameObject:
   m_Component:
   - component: {fileID: 506501278}
   - component: {fileID: 506501279}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31440,7 +31440,7 @@ GameObject:
   - component: {fileID: 507437755}
   - component: {fileID: 507437754}
   - component: {fileID: 507437756}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31628,7 +31628,7 @@ GameObject:
   m_Component:
   - component: {fileID: 509977650}
   - component: {fileID: 509977651}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32196,7 +32196,7 @@ GameObject:
   - component: {fileID: 515047670}
   - component: {fileID: 515047671}
   - component: {fileID: 515047672}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32385,7 +32385,7 @@ GameObject:
   - component: {fileID: 520247608}
   - component: {fileID: 520247609}
   - component: {fileID: 520247610}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32493,7 +32493,7 @@ GameObject:
   - component: {fileID: 521323658}
   - component: {fileID: 521323659}
   - component: {fileID: 521323660}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (193)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32681,7 +32681,7 @@ GameObject:
   m_Component:
   - component: {fileID: 525216093}
   - component: {fileID: 525216094}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32843,7 +32843,7 @@ GameObject:
   m_Component:
   - component: {fileID: 531226881}
   - component: {fileID: 531226882}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33006,7 +33006,7 @@ GameObject:
   - component: {fileID: 536122113}
   - component: {fileID: 536122114}
   - component: {fileID: 536122115}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (181)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33113,7 +33113,7 @@ GameObject:
   m_Component:
   - component: {fileID: 536931587}
   - component: {fileID: 536931588}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33194,7 +33194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 539554733}
   - component: {fileID: 539554734}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53766,7 +53766,7 @@ GameObject:
   - component: {fileID: 548822742}
   - component: {fileID: 548822743}
   - component: {fileID: 548822744}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (128)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54035,7 +54035,7 @@ GameObject:
   m_Component:
   - component: {fileID: 552082750}
   - component: {fileID: 552082751}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54603,7 +54603,7 @@ GameObject:
   - component: {fileID: 562911259}
   - component: {fileID: 562911260}
   - component: {fileID: 562911261}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (148)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54873,7 +54873,7 @@ GameObject:
   - component: {fileID: 563149595}
   - component: {fileID: 563149596}
   - component: {fileID: 563149597}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (147)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55385,7 +55385,7 @@ GameObject:
   m_Component:
   - component: {fileID: 567283835}
   - component: {fileID: 567283836}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55548,7 +55548,7 @@ GameObject:
   - component: {fileID: 568790978}
   - component: {fileID: 568790979}
   - component: {fileID: 568790980}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (100)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56061,7 +56061,7 @@ GameObject:
   - component: {fileID: 578913796}
   - component: {fileID: 578913797}
   - component: {fileID: 578913798}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56168,7 +56168,7 @@ GameObject:
   m_Component:
   - component: {fileID: 579095524}
   - component: {fileID: 579095525}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56250,7 +56250,7 @@ GameObject:
   - component: {fileID: 581741955}
   - component: {fileID: 581741956}
   - component: {fileID: 581741957}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (105)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56601,7 +56601,7 @@ GameObject:
   - component: {fileID: 586984591}
   - component: {fileID: 586984590}
   - component: {fileID: 586984589}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_62
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57842,7 +57842,7 @@ GameObject:
   m_Component:
   - component: {fileID: 605590222}
   - component: {fileID: 605590223}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58005,7 +58005,7 @@ GameObject:
   - component: {fileID: 606266707}
   - component: {fileID: 606266706}
   - component: {fileID: 606266708}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58113,7 +58113,7 @@ GameObject:
   - component: {fileID: 606549226}
   - component: {fileID: 606549227}
   - component: {fileID: 606549228}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (98)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58302,7 +58302,7 @@ GameObject:
   - component: {fileID: 615994045}
   - component: {fileID: 615994046}
   - component: {fileID: 615994047}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (103)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58491,7 +58491,7 @@ GameObject:
   - component: {fileID: 618943867}
   - component: {fileID: 618943868}
   - component: {fileID: 618943869}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (82)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58680,7 +58680,7 @@ GameObject:
   - component: {fileID: 621557940}
   - component: {fileID: 621557939}
   - component: {fileID: 621557941}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58950,7 +58950,7 @@ GameObject:
   - component: {fileID: 622582632}
   - component: {fileID: 622582633}
   - component: {fileID: 622582634}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (116)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59057,7 +59057,7 @@ GameObject:
   m_Component:
   - component: {fileID: 623200595}
   - component: {fileID: 623200596}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59138,7 +59138,7 @@ GameObject:
   m_Component:
   - component: {fileID: 624164643}
   - component: {fileID: 624164644}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59705,7 +59705,7 @@ GameObject:
   m_Component:
   - component: {fileID: 642593810}
   - component: {fileID: 642593809}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_11 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60111,7 +60111,7 @@ GameObject:
   - component: {fileID: 648601234}
   - component: {fileID: 648601233}
   - component: {fileID: 648601235}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60219,7 +60219,7 @@ GameObject:
   - component: {fileID: 649045397}
   - component: {fileID: 649045398}
   - component: {fileID: 649045399}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (177)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60974,7 +60974,7 @@ GameObject:
   m_Component:
   - component: {fileID: 657068398}
   - component: {fileID: 657068397}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61600,7 +61600,7 @@ GameObject:
   - component: {fileID: 670599053}
   - component: {fileID: 670599054}
   - component: {fileID: 670599055}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (237)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61708,7 +61708,7 @@ GameObject:
   - component: {fileID: 670914251}
   - component: {fileID: 670914252}
   - component: {fileID: 670914253}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61815,7 +61815,7 @@ GameObject:
   m_Component:
   - component: {fileID: 672240153}
   - component: {fileID: 672240152}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_11 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62463,7 +62463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 686355099}
   - component: {fileID: 686355100}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62544,7 +62544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 686484500}
   - component: {fileID: 686484501}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62626,7 +62626,7 @@ GameObject:
   - component: {fileID: 687692702}
   - component: {fileID: 687692703}
   - component: {fileID: 687692704}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (126)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63057,7 +63057,7 @@ GameObject:
   m_Component:
   - component: {fileID: 697337449}
   - component: {fileID: 697337448}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_67 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63715,7 +63715,7 @@ GameObject:
   m_Component:
   - component: {fileID: 710764929}
   - component: {fileID: 710764930}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63877,7 +63877,7 @@ GameObject:
   m_Component:
   - component: {fileID: 712185675}
   - component: {fileID: 712185676}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64120,7 +64120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 715288328}
   - component: {fileID: 715288329}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64444,7 +64444,7 @@ GameObject:
   m_Component:
   - component: {fileID: 720689552}
   - component: {fileID: 720689553}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64687,7 +64687,7 @@ GameObject:
   m_Component:
   - component: {fileID: 725559155}
   - component: {fileID: 725559156}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64850,7 +64850,7 @@ GameObject:
   - component: {fileID: 731391883}
   - component: {fileID: 731391882}
   - component: {fileID: 731391884}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65120,7 +65120,7 @@ GameObject:
   - component: {fileID: 736024560}
   - component: {fileID: 736024561}
   - component: {fileID: 736024562}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (183)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65795,7 +65795,7 @@ GameObject:
   - component: {fileID: 741782021}
   - component: {fileID: 741782020}
   - component: {fileID: 741782022}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66146,7 +66146,7 @@ GameObject:
   - component: {fileID: 742970879}
   - component: {fileID: 742970880}
   - component: {fileID: 742970881}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (89)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66415,7 +66415,7 @@ GameObject:
   m_Component:
   - component: {fileID: 744366031}
   - component: {fileID: 744366032}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66578,7 +66578,7 @@ GameObject:
   - component: {fileID: 749945340}
   - component: {fileID: 749945341}
   - component: {fileID: 749945342}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (112)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66686,7 +66686,7 @@ GameObject:
   - component: {fileID: 749959605}
   - component: {fileID: 749959606}
   - component: {fileID: 749959607}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (249)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66956,7 +66956,7 @@ GameObject:
   - component: {fileID: 754616824}
   - component: {fileID: 754616825}
   - component: {fileID: 754616826}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (174)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -67144,7 +67144,7 @@ GameObject:
   m_Component:
   - component: {fileID: 758403605}
   - component: {fileID: 758403606}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -67712,7 +67712,7 @@ GameObject:
   - component: {fileID: 764227327}
   - component: {fileID: 764227328}
   - component: {fileID: 764227329}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (138)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68225,7 +68225,7 @@ GameObject:
   - component: {fileID: 774496817}
   - component: {fileID: 774496816}
   - component: {fileID: 774496818}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68495,7 +68495,7 @@ GameObject:
   - component: {fileID: 780887243}
   - component: {fileID: 780887244}
   - component: {fileID: 780887245}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69737,7 +69737,7 @@ GameObject:
   - component: {fileID: 803664440}
   - component: {fileID: 803664441}
   - component: {fileID: 803664442}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (243)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -70088,7 +70088,7 @@ GameObject:
   - component: {fileID: 805336354}
   - component: {fileID: 805336353}
   - component: {fileID: 805336355}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -70276,7 +70276,7 @@ GameObject:
   m_Component:
   - component: {fileID: 807690698}
   - component: {fileID: 807690699}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71164,7 +71164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 821867610}
   - component: {fileID: 821867611}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71245,7 +71245,7 @@ GameObject:
   m_Component:
   - component: {fileID: 822631971}
   - component: {fileID: 822631972}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71974,7 +71974,7 @@ GameObject:
   m_Component:
   - component: {fileID: 831755180}
   - component: {fileID: 831755179}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_72
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72136,7 +72136,7 @@ GameObject:
   m_Component:
   - component: {fileID: 835787143}
   - component: {fileID: 835787144}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72460,7 +72460,7 @@ GameObject:
   m_Component:
   - component: {fileID: 841729433}
   - component: {fileID: 841729434}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73189,7 +73189,7 @@ GameObject:
   m_Component:
   - component: {fileID: 852985876}
   - component: {fileID: 852985877}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73675,7 +73675,7 @@ GameObject:
   m_Component:
   - component: {fileID: 859323215}
   - component: {fileID: 859323216}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73756,7 +73756,7 @@ GameObject:
   m_Component:
   - component: {fileID: 863586586}
   - component: {fileID: 863586587}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73837,7 +73837,7 @@ GameObject:
   m_Component:
   - component: {fileID: 864568814}
   - component: {fileID: 864568815}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74243,7 +74243,7 @@ GameObject:
   - component: {fileID: 872333937}
   - component: {fileID: 872333938}
   - component: {fileID: 872333939}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (153)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74431,7 +74431,7 @@ GameObject:
   m_Component:
   - component: {fileID: 875752616}
   - component: {fileID: 875752617}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75160,7 +75160,7 @@ GameObject:
   m_Component:
   - component: {fileID: 887365261}
   - component: {fileID: 887365260}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75404,7 +75404,7 @@ GameObject:
   - component: {fileID: 890621212}
   - component: {fileID: 890621213}
   - component: {fileID: 890621214}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (271)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75673,7 +75673,7 @@ GameObject:
   m_Component:
   - component: {fileID: 893337682}
   - component: {fileID: 893337681}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75755,7 +75755,7 @@ GameObject:
   - component: {fileID: 893688910}
   - component: {fileID: 893688909}
   - component: {fileID: 893688911}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75863,7 +75863,7 @@ GameObject:
   - component: {fileID: 894569009}
   - component: {fileID: 894569010}
   - component: {fileID: 894569011}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (268)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76376,7 +76376,7 @@ GameObject:
   - component: {fileID: 900906433}
   - component: {fileID: 900906434}
   - component: {fileID: 900906435}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76808,7 +76808,7 @@ GameObject:
   - component: {fileID: 905652158}
   - component: {fileID: 905652159}
   - component: {fileID: 905652160}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (151)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76916,7 +76916,7 @@ GameObject:
   - component: {fileID: 907544266}
   - component: {fileID: 907544267}
   - component: {fileID: 907544268}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (84)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77348,7 +77348,7 @@ GameObject:
   - component: {fileID: 912013762}
   - component: {fileID: 912013761}
   - component: {fileID: 912013763}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77456,7 +77456,7 @@ GameObject:
   - component: {fileID: 912239925}
   - component: {fileID: 912239924}
   - component: {fileID: 912239926}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77564,7 +77564,7 @@ GameObject:
   - component: {fileID: 912919269}
   - component: {fileID: 912919268}
   - component: {fileID: 912919270}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78320,7 +78320,7 @@ GameObject:
   - component: {fileID: 933103878}
   - component: {fileID: 933103879}
   - component: {fileID: 933103880}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (80)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78589,7 +78589,7 @@ GameObject:
   m_Component:
   - component: {fileID: 938675973}
   - component: {fileID: 938675974}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79399,7 +79399,7 @@ GameObject:
   m_Component:
   - component: {fileID: 947079129}
   - component: {fileID: 947079130}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79643,7 +79643,7 @@ GameObject:
   - component: {fileID: 949352000}
   - component: {fileID: 949352001}
   - component: {fileID: 949352002}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (117)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79832,7 +79832,7 @@ GameObject:
   - component: {fileID: 953771373}
   - component: {fileID: 953771374}
   - component: {fileID: 953771375}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (127)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79939,7 +79939,7 @@ GameObject:
   m_Component:
   - component: {fileID: 954666320}
   - component: {fileID: 954666321}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80345,7 +80345,7 @@ GameObject:
   - component: {fileID: 960576809}
   - component: {fileID: 960576810}
   - component: {fileID: 960576811}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (79)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80453,7 +80453,7 @@ GameObject:
   - component: {fileID: 961935798}
   - component: {fileID: 961935799}
   - component: {fileID: 961935800}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (176)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80785,7 +80785,7 @@ GameObject:
   m_Component:
   - component: {fileID: 965994470}
   - component: {fileID: 965994471}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80948,7 +80948,7 @@ GameObject:
   - component: {fileID: 970261114}
   - component: {fileID: 970261115}
   - component: {fileID: 970261116}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (136)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -81690,11 +81690,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 986614226}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.85, y: 0.86, z: -0.586}
-  m_LocalScale: {x: 0.26080605, y: 0.26080605, z: 0.26080605}
+  m_LocalPosition: {x: 59.92, y: -5.06, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 1660761027}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &986614229
 Animator:
@@ -82022,7 +82022,7 @@ GameObject:
   m_Component:
   - component: {fileID: 995452842}
   - component: {fileID: 995452843}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -82427,7 +82427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1000685965}
   - component: {fileID: 1000685966}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -82509,7 +82509,7 @@ GameObject:
   - component: {fileID: 1003676275}
   - component: {fileID: 1003676276}
   - component: {fileID: 1003676277}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (247)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -82616,7 +82616,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1004046682}
   - component: {fileID: 1004046683}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83265,7 +83265,7 @@ GameObject:
   - component: {fileID: 1014667699}
   - component: {fileID: 1014667700}
   - component: {fileID: 1014667701}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (185)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83939,7 +83939,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1027735067}
   - component: {fileID: 1027735068}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84021,7 +84021,7 @@ GameObject:
   - component: {fileID: 1027837229}
   - component: {fileID: 1027837230}
   - component: {fileID: 1027837231}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (156)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84290,7 +84290,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1031465209}
   - component: {fileID: 1031465210}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84534,7 +84534,7 @@ GameObject:
   - component: {fileID: 1035700867}
   - component: {fileID: 1035700868}
   - component: {fileID: 1035700869}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85047,7 +85047,7 @@ GameObject:
   - component: {fileID: 1047844651}
   - component: {fileID: 1047844652}
   - component: {fileID: 1047844653}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (76)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85398,7 +85398,7 @@ GameObject:
   - component: {fileID: 1049178375}
   - component: {fileID: 1049178376}
   - component: {fileID: 1049178377}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (182)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85829,7 +85829,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1056768718}
   - component: {fileID: 1056768719}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86073,7 +86073,7 @@ GameObject:
   - component: {fileID: 1060347271}
   - component: {fileID: 1060347270}
   - component: {fileID: 1060347272}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86181,7 +86181,7 @@ GameObject:
   - component: {fileID: 1061074600}
   - component: {fileID: 1061074601}
   - component: {fileID: 1061074602}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (133)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87018,7 +87018,7 @@ GameObject:
   - component: {fileID: 1073637084}
   - component: {fileID: 1073637085}
   - component: {fileID: 1073637086}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (157)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87125,7 +87125,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1075434434}
   - component: {fileID: 1075434435}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87369,7 +87369,7 @@ GameObject:
   - component: {fileID: 1085195894}
   - component: {fileID: 1085195893}
   - component: {fileID: 1085195895}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87639,7 +87639,7 @@ GameObject:
   - component: {fileID: 1090521905}
   - component: {fileID: 1090521906}
   - component: {fileID: 1090521907}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (169)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87827,7 +87827,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1092423188}
   - component: {fileID: 1092423189}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88151,7 +88151,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1098398861}
   - component: {fileID: 1098398862}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88313,7 +88313,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1100619553}
   - component: {fileID: 1100619554}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88638,7 +88638,7 @@ GameObject:
   - component: {fileID: 1111286054}
   - component: {fileID: 1111286055}
   - component: {fileID: 1111286056}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (166)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88745,7 +88745,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1116183154}
   - component: {fileID: 1116183155}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89475,7 +89475,7 @@ GameObject:
   - component: {fileID: 1122790619}
   - component: {fileID: 1122790618}
   - component: {fileID: 1122790617}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_69
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89663,7 +89663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1125172143}
   - component: {fileID: 1125172144}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89906,7 +89906,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1132624377}
   - component: {fileID: 1132624378}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90959,7 +90959,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1146898526}
   - component: {fileID: 1146898527}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91122,7 +91122,7 @@ GameObject:
   - component: {fileID: 1147345516}
   - component: {fileID: 1147345515}
   - component: {fileID: 1147345517}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91229,7 +91229,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1148863380}
   - component: {fileID: 1148863381}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91310,7 +91310,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1149883925}
   - component: {fileID: 1149883926}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91553,7 +91553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1150985447}
   - component: {fileID: 1150985448}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91634,7 +91634,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1153411013}
   - component: {fileID: 1153411014}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92444,7 +92444,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1164068808}
   - component: {fileID: 1164068809}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92607,7 +92607,7 @@ GameObject:
   - component: {fileID: 1166366336}
   - component: {fileID: 1166366337}
   - component: {fileID: 1166366338}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (165)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93039,7 +93039,7 @@ GameObject:
   - component: {fileID: 1174198896}
   - component: {fileID: 1174198897}
   - component: {fileID: 1174198898}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93390,7 +93390,7 @@ GameObject:
   - component: {fileID: 1183007582}
   - component: {fileID: 1183007583}
   - component: {fileID: 1183007584}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (87)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93983,7 +93983,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1196814897}
   - component: {fileID: 1196814898}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94065,7 +94065,7 @@ GameObject:
   - component: {fileID: 1196843995}
   - component: {fileID: 1196843996}
   - component: {fileID: 1196843997}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94496,7 +94496,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1204535695}
   - component: {fileID: 1204535696}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94902,7 +94902,7 @@ GameObject:
   - component: {fileID: 1212897517}
   - component: {fileID: 1212897518}
   - component: {fileID: 1212897519}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (178)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95333,7 +95333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1228941493}
   - component: {fileID: 1228941494}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95414,7 +95414,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1232320725}
   - component: {fileID: 1232320726}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95496,7 +95496,7 @@ GameObject:
   - component: {fileID: 1233388306}
   - component: {fileID: 1233388307}
   - component: {fileID: 1233388308}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (270)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95928,7 +95928,7 @@ GameObject:
   - component: {fileID: 1239977537}
   - component: {fileID: 1239977538}
   - component: {fileID: 1239977539}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (255)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96036,7 +96036,7 @@ GameObject:
   - component: {fileID: 1241175207}
   - component: {fileID: 1241175206}
   - component: {fileID: 1241175208}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96467,7 +96467,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1247863608}
   - component: {fileID: 1247863609}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96711,7 +96711,7 @@ GameObject:
   - component: {fileID: 1250896710}
   - component: {fileID: 1250896711}
   - component: {fileID: 1250896712}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (73)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97386,7 +97386,7 @@ GameObject:
   - component: {fileID: 1262544050}
   - component: {fileID: 1262544051}
   - component: {fileID: 1262544052}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (74)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97493,7 +97493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1264177976}
   - component: {fileID: 1264177977}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97741,7 +97741,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1265585898}
   - component: {fileID: 1265585899}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98066,7 +98066,7 @@ GameObject:
   - component: {fileID: 1275207404}
   - component: {fileID: 1275207405}
   - component: {fileID: 1275207406}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98498,7 +98498,7 @@ GameObject:
   - component: {fileID: 1278092128}
   - component: {fileID: 1278092127}
   - component: {fileID: 1278092129}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98849,7 +98849,7 @@ GameObject:
   - component: {fileID: 1283074867}
   - component: {fileID: 1283074868}
   - component: {fileID: 1283074869}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (161)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -99189,6 +99189,91 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1289177442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1289177444}
+  - component: {fileID: 1289177443}
+  m_Layer: 0
+  m_Name: A*
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1289177443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1289177442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78396926cbbfc4ac3b48fc5fc34a87d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  data:
+    dataString: UEsDBBQAAAgIAAAYIeypAA4gawIAABIFAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFlVE1z2jAU/CuMzoWxjSHQW2sI6YEkE9rJxRdhPWMNsuSR5ADJ8N/7JNvYpb4g9n3trp79Rbg0FWRW6Y3mbKsYkO8j4s7k26gPPsGZHpTc8U/oct45s4VLoj7njVquEA9dmVElWM2zH/IgXHKAYC15rnS5ZgdIlLEG4ZwKAxjSyrpqidDXiJzxZ7x0JRc8RQ/u9ImnZTC64jEDaUH3qcvJ0j1Rmx9PZgE+0XTRli0mQTyfRw/zcD0OHnyLWmaClhUwp6fvFN9mhj5NotI2w6nKlBDctDSJvVTehoRWpkaRmMA4RdmeWziZIlAAPxTWNRyWv+S5Adu6oullxTX61/QlP1VjaknNsWH2QUXtKQRR7Gk1Xbf/JYwb1rlW5VM3OAzcEFvw7PhGLxk1dmD7EF4NuHuHTlQc6V7AewHyWW20qiXDoNW1K60NRKv+701bUkB27PGG6h1YV73lnePdHTsNVy//nAhe7l1oEjfATihvuV8N0Hg5v5CwXxzTtkDUsfhj4Dc9DDesDTxybSyGWpXS0durWrtUsvaeOTW1TZSW4OGWdAWSCnt5xTb2/g7vYoOxd5FH6t6ldngb616RuxIP9/lBcBd6VafbZZlCnbZgipfaCi6hJ+0Cz+hToqRsVmzoSVe2q3VOs0HZoebs39UiUxpNpxAs4hkEUwhn43AW7YMsW8wWDIJlHBO/e1yiTipeG6KtPXhrsm8ucc+6T8xoo2nl151petrwz1INLOcyV7tMA8iXpsONOGgcgi8mWzOOBu3AWi79fZOvlAiVHYGlt0apV7o+W03TvktKKv6hrENSkvhvSkqu5PoXUEsDBBQAAAgIAAAYIewYJBCLbAAAAHcAAAAJACQAbWV0YS5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0Bq1YqSy0qzszPU7JSMNEz0rPQUVBKL0osyCgGChiCOKWZKSB2tJJxopGxcaqBhYlpqoFxqqGprqGpUZJBcrKFqUVKqoGliYlSLFB9SWVBql9ibipET0BiSUZaZl5KZl66nntRZoo7yGil2FoAUEsBAi0AFAAACAgAABgh7KkADiBrAgAAEgUAAAsAJAAAAAAAAAAAAAAAAAAAAGdyYXBoMC5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAABgh7BgkEItsAAAAdwAAAAkAJAAAAAAAAAAAAAAAuAIAAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLBQYAAAAAAgACALgAAABvAwAAAAA=
+    upgradeData: 
+    file_cachedStartup: {fileID: 0}
+    data_cachedStartup: 
+    cacheStartup: 0
+  showNavGraphs: 1
+  showUnwalkableNodes: 1
+  debugMode: 0
+  debugFloor: 0
+  debugRoof: 1
+  manualDebugFloorRoof: 0
+  showSearchTree: 0
+  unwalkableNodeDebugSize: 0.3
+  logPathResults: 1
+  maxNearestNodeDistance: 100
+  scanOnStartup: 1
+  fullGetNearestSearch: 0
+  prioritizeGraphs: 0
+  prioritizeGraphsLimit: 1
+  colorSettings:
+    _SolidColor: {r: 0.11764706, g: 0.4, b: 0.7882353, a: 0.9}
+    _UnwalkableNode: {r: 1, g: 0, b: 0, a: 0.5}
+    _BoundsHandles: {r: 0.29, g: 0.454, b: 0.741, a: 0.9}
+    _ConnectionLowLerp: {r: 0, g: 1, b: 0, a: 0.5}
+    _ConnectionHighLerp: {r: 1, g: 0, b: 0, a: 0.5}
+    _MeshEdgeColor: {r: 0, g: 0, b: 0, a: 0.5}
+    _AreaColors: []
+  tagNames: []
+  heuristic: 2
+  heuristicScale: 1
+  threadCount: 1
+  maxFrameTime: 1
+  batchGraphUpdates: 0
+  graphUpdateBatchingInterval: 0.2
+  euclideanEmbedding:
+    mode: 0
+    seed: 0
+    pivotPointRoot: {fileID: 0}
+    spreadOutCount: 1
+  showGraphs: 1
+--- !u!4 &1289177444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1289177442}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 12.750832, y: 1.4893081, z: -84.92476}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1289339629
 GameObject:
   m_ObjectHideFlags: 0
@@ -99281,7 +99366,7 @@ GameObject:
   - component: {fileID: 1289592986}
   - component: {fileID: 1289592985}
   - component: {fileID: 1289592987}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -100037,7 +100122,7 @@ GameObject:
   - component: {fileID: 1305529290}
   - component: {fileID: 1305529291}
   - component: {fileID: 1305529292}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (159)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102441,7 +102526,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1322107339}
   - component: {fileID: 1322107340}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102523,7 +102608,7 @@ GameObject:
   - component: {fileID: 1323678639}
   - component: {fileID: 1323678640}
   - component: {fileID: 1323678641}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (85)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102712,7 +102797,7 @@ GameObject:
   - component: {fileID: 1323946634}
   - component: {fileID: 1323946635}
   - component: {fileID: 1323946636}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (137)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102900,7 +102985,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1324961547}
   - component: {fileID: 1324961548}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103225,7 +103310,7 @@ GameObject:
   - component: {fileID: 1326828363}
   - component: {fileID: 1326828364}
   - component: {fileID: 1326828365}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (163)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103495,7 +103580,7 @@ GameObject:
   - component: {fileID: 1335126026}
   - component: {fileID: 1335126027}
   - component: {fileID: 1335126028}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (186)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103765,7 +103850,7 @@ GameObject:
   - component: {fileID: 1340181523}
   - component: {fileID: 1340181522}
   - component: {fileID: 1340181524}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104520,7 +104605,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1351670926}
   - component: {fileID: 1351670927}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104925,7 +105010,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1357225756}
   - component: {fileID: 1357225757}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -105897,7 +105982,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1373241671}
   - component: {fileID: 1373241670}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_68 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -105978,7 +106063,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1375848894}
   - component: {fileID: 1375848895}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106302,7 +106387,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1380866838}
   - component: {fileID: 1380866839}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106546,7 +106631,7 @@ GameObject:
   - component: {fileID: 1385833862}
   - component: {fileID: 1385833863}
   - component: {fileID: 1385833864}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (129)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107301,7 +107386,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1397107470}
   - component: {fileID: 1397107471}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107950,7 +108035,7 @@ GameObject:
   - component: {fileID: 1410231128}
   - component: {fileID: 1410231129}
   - component: {fileID: 1410231130}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (259)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108625,7 +108710,7 @@ GameObject:
   - component: {fileID: 1423505699}
   - component: {fileID: 1423505700}
   - component: {fileID: 1423505701}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (88)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108894,7 +108979,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1424954265}
   - component: {fileID: 1424954266}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -109057,7 +109142,7 @@ GameObject:
   - component: {fileID: 1432502467}
   - component: {fileID: 1432502468}
   - component: {fileID: 1432502469}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (245)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -109164,7 +109249,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1432536075}
   - component: {fileID: 1432536076}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110541,7 +110626,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1448166390}
   - component: {fileID: 1448166389}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_11 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -111514,7 +111599,7 @@ GameObject:
   - component: {fileID: 1469298061}
   - component: {fileID: 1469298060}
   - component: {fileID: 1469298062}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -111703,7 +111788,7 @@ GameObject:
   - component: {fileID: 1474702403}
   - component: {fileID: 1474702404}
   - component: {fileID: 1474702405}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (189)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -112134,7 +112219,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1485219605}
   - component: {fileID: 1485219606}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -112539,7 +112624,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1490959691}
   - component: {fileID: 1490959690}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -112783,7 +112868,7 @@ GameObject:
   - component: {fileID: 1495966415}
   - component: {fileID: 1495966416}
   - component: {fileID: 1495966417}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (146)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -112890,7 +112975,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1496397526}
   - component: {fileID: 1496397527}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113457,7 +113542,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1501558352}
   - component: {fileID: 1501558353}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113620,7 +113705,7 @@ GameObject:
   - component: {fileID: 1502350358}
   - component: {fileID: 1502350359}
   - component: {fileID: 1502350360}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (115)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113890,7 +113975,7 @@ GameObject:
   - component: {fileID: 1508052799}
   - component: {fileID: 1508052798}
   - component: {fileID: 1508052800}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114078,7 +114163,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1509243517}
   - component: {fileID: 1509243518}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114321,7 +114406,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1510991676}
   - component: {fileID: 1510991675}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114402,7 +114487,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1512245241}
   - component: {fileID: 1512245242}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114645,7 +114730,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1515627802}
   - component: {fileID: 1515627803}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114726,7 +114811,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1519865781}
   - component: {fileID: 1519865782}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114808,7 +114893,7 @@ GameObject:
   - component: {fileID: 1520251519}
   - component: {fileID: 1520251518}
   - component: {fileID: 1520251520}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114916,7 +115001,7 @@ GameObject:
   - component: {fileID: 1523484290}
   - component: {fileID: 1523484291}
   - component: {fileID: 1523484292}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (187)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -115267,7 +115352,7 @@ GameObject:
   - component: {fileID: 1527539725}
   - component: {fileID: 1527539724}
   - component: {fileID: 1527539726}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -116266,7 +116351,7 @@ GameObject:
   - component: {fileID: 1546805009}
   - component: {fileID: 1546805008}
   - component: {fileID: 1546805010}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -116779,7 +116864,7 @@ GameObject:
   - component: {fileID: 1552406111}
   - component: {fileID: 1552406110}
   - component: {fileID: 1552406112}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -117049,7 +117134,7 @@ GameObject:
   - component: {fileID: 1557864006}
   - component: {fileID: 1557864007}
   - component: {fileID: 1557864008}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (256)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -117642,7 +117727,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1566757448}
   - component: {fileID: 1566757449}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -117885,7 +117970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1569099440}
   - component: {fileID: 1569099441}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -118372,7 +118457,7 @@ GameObject:
   - component: {fileID: 1577217236}
   - component: {fileID: 1577217237}
   - component: {fileID: 1577217238}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (99)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -118561,7 +118646,7 @@ GameObject:
   - component: {fileID: 1577502677}
   - component: {fileID: 1577502676}
   - component: {fileID: 1577502678}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -118668,7 +118753,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1580869072}
   - component: {fileID: 1580869073}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -118750,7 +118835,7 @@ GameObject:
   - component: {fileID: 1582100887}
   - component: {fileID: 1582100888}
   - component: {fileID: 1582100889}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (68)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -119020,7 +119105,7 @@ GameObject:
   - component: {fileID: 1585527627}
   - component: {fileID: 1585527628}
   - component: {fileID: 1585527629}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (90)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -119127,7 +119212,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1585573157}
   - component: {fileID: 1585573158}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -119694,7 +119779,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1598093776}
   - component: {fileID: 1598093777}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120100,7 +120185,7 @@ GameObject:
   - component: {fileID: 1603976321}
   - component: {fileID: 1603976320}
   - component: {fileID: 1603976322}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120532,7 +120617,7 @@ GameObject:
   - component: {fileID: 1608157492}
   - component: {fileID: 1608157491}
   - component: {fileID: 1608157493}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121126,7 +121211,7 @@ GameObject:
   - component: {fileID: 1617192219}
   - component: {fileID: 1617192220}
   - component: {fileID: 1617192221}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121720,7 +121805,7 @@ GameObject:
   - component: {fileID: 1625961509}
   - component: {fileID: 1625961508}
   - component: {fileID: 1625961510}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -122232,7 +122317,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1630432104}
   - component: {fileID: 1630432105}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -122557,7 +122642,7 @@ GameObject:
   - component: {fileID: 1635018600}
   - component: {fileID: 1635018601}
   - component: {fileID: 1635018602}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -123394,7 +123479,7 @@ GameObject:
   - component: {fileID: 1653386073}
   - component: {fileID: 1653386072}
   - component: {fileID: 1653386074}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -123825,7 +123910,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1660260123}
   - component: {fileID: 1660260124}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -123896,6 +123981,118 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1660761023
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1660761027}
+  - component: {fileID: 1660761026}
+  - component: {fileID: 1660761025}
+  - component: {fileID: 1660761024}
+  m_Layer: 0
+  m_Name: Enemy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1660761024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1660761023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9679e68a0f1144e79c664d9a11ca121, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  target: {fileID: 220752273}
+--- !u!114 &1660761025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1660761023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6eb1402c17e84a9282a7f0f62eb584f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2
+  radius: 3
+  height: 3
+  repathRate: 0.5
+  canSearch: 1
+  canMove: 1
+  maxSpeed: 1
+  gravity: {x: 0, y: 0, z: 0}
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  centerOffsetCompatibility: NaN
+  orientation: 1
+  enableRotation: 0
+  targetCompatibility: {fileID: 0}
+  maxAcceleration: -2.5
+  rotationSpeed: 360
+  slowdownDistance: 0.6
+  pickNextWaypointDist: 2
+  endReachedDistance: 0.2
+  alwaysDrawGizmos: 1
+  slowWhenNotFacingTarget: 1
+  whenCloseToDestination: 0
+  constrainInsideGraph: 0
+--- !u!114 &1660761026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1660761023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373b52eb9bf8c40f785bb6947a1aee66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  drawGizmos: 1
+  detailedGizmos: 0
+  startEndModifier:
+    addPoints: 0
+    exactStartPoint: 3
+    exactEndPoint: 3
+    useRaycasting: 0
+    mask:
+      serializedVersion: 2
+      m_Bits: 4294967295
+    useGraphRaycasting: 0
+  traversableTags: -1
+  tagPenalties: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  graphMask:
+    value: -1
+--- !u!4 &1660761027
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1660761023}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.15, y: 3.56, z: -105.68375}
+  m_LocalScale: {x: 0.2608061, y: 0.2608061, z: 0.2608061}
+  m_Children:
+  - {fileID: 986614228}
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1664676067
 GameObject:
   m_ObjectHideFlags: 0
@@ -123987,7 +124184,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1664827687}
   - component: {fileID: 1664827688}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -124312,7 +124509,7 @@ GameObject:
   - component: {fileID: 1669062293}
   - component: {fileID: 1669062294}
   - component: {fileID: 1669062295}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (149)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -124825,7 +125022,7 @@ GameObject:
   - component: {fileID: 1687749608}
   - component: {fileID: 1687749609}
   - component: {fileID: 1687749610}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (195)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -125580,7 +125777,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1699644448}
   - component: {fileID: 1699644449}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -125824,7 +126021,7 @@ GameObject:
   - component: {fileID: 1703636033}
   - component: {fileID: 1703636034}
   - component: {fileID: 1703636035}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (164)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -126094,7 +126291,7 @@ GameObject:
   - component: {fileID: 1707529787}
   - component: {fileID: 1707529788}
   - component: {fileID: 1707529789}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (172)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -126283,7 +126480,7 @@ GameObject:
   - component: {fileID: 1708518499}
   - component: {fileID: 1708518500}
   - component: {fileID: 1708518501}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (134)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127363,7 +127560,7 @@ GameObject:
   - component: {fileID: 1728447461}
   - component: {fileID: 1728447460}
   - component: {fileID: 1728447462}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127794,7 +127991,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1738590259}
   - component: {fileID: 1738590260}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127876,7 +128073,7 @@ GameObject:
   - component: {fileID: 1743075731}
   - component: {fileID: 1743075732}
   - component: {fileID: 1743075733}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128226,7 +128423,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1746857174}
   - component: {fileID: 1746857173}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_67
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128713,7 +128910,7 @@ GameObject:
   - component: {fileID: 1752859278}
   - component: {fileID: 1752859277}
   - component: {fileID: 1752859279}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128901,7 +129098,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1754859838}
   - component: {fileID: 1754859839}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128983,7 +129180,7 @@ GameObject:
   - component: {fileID: 1755490685}
   - component: {fileID: 1755490684}
   - component: {fileID: 1755490686}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -130224,7 +130421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1777397405}
   - component: {fileID: 1777397406}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -130467,7 +130664,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1784851827}
   - component: {fileID: 1784851828}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -131359,7 +131556,7 @@ GameObject:
   - component: {fileID: 1804352035}
   - component: {fileID: 1804352036}
   - component: {fileID: 1804352037}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (253)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -131710,7 +131907,7 @@ GameObject:
   - component: {fileID: 1807144347}
   - component: {fileID: 1807144346}
   - component: {fileID: 1807144348}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -131979,7 +132176,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1812153068}
   - component: {fileID: 1812153069}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: 0 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -132464,7 +132661,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1820819244}
   - component: {fileID: 1820819245}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -132626,7 +132823,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1825715992}
   - component: {fileID: 1825715993}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -132789,7 +132986,7 @@ GameObject:
   - component: {fileID: 1829013943}
   - component: {fileID: 1829013942}
   - component: {fileID: 1829013944}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -133140,7 +133337,7 @@ GameObject:
   - component: {fileID: 1837035470}
   - component: {fileID: 1837035471}
   - component: {fileID: 1837035472}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (257)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -133895,7 +134092,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1844206787}
   - component: {fileID: 1844206788}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -133977,7 +134174,7 @@ GameObject:
   - component: {fileID: 1846113619}
   - component: {fileID: 1846113618}
   - component: {fileID: 1846113620}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -134490,7 +134687,7 @@ GameObject:
   - component: {fileID: 1859077149}
   - component: {fileID: 1859077150}
   - component: {fileID: 1859077151}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (160)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -134841,7 +135038,7 @@ GameObject:
   - component: {fileID: 1863781461}
   - component: {fileID: 1863781460}
   - component: {fileID: 1863781462}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -135273,7 +135470,7 @@ GameObject:
   - component: {fileID: 1877175912}
   - component: {fileID: 1877175913}
   - component: {fileID: 1877175914}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -135786,7 +135983,7 @@ GameObject:
   - component: {fileID: 1881914502}
   - component: {fileID: 1881914503}
   - component: {fileID: 1881914504}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -135894,7 +136091,7 @@ GameObject:
   - component: {fileID: 1882927562}
   - component: {fileID: 1882927563}
   - component: {fileID: 1882927564}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (86)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -136082,7 +136279,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1883350425}
   - component: {fileID: 1883350426}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -136325,7 +136522,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1890947886}
   - component: {fileID: 1890947887}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -136893,7 +137090,7 @@ GameObject:
   - component: {fileID: 1895679477}
   - component: {fileID: 1895679478}
   - component: {fileID: 1895679479}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137648,7 +137845,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1904235739}
   - component: {fileID: 1904235740}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137892,7 +138089,7 @@ GameObject:
   - component: {fileID: 1906737299}
   - component: {fileID: 1906737300}
   - component: {fileID: 1906737301}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -138161,7 +138358,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1911832071}
   - component: {fileID: 1911832072}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -138404,7 +138601,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1914455369}
   - component: {fileID: 1914455370}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -138728,7 +138925,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1920139957}
   - component: {fileID: 1920139958}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -138972,7 +139169,7 @@ GameObject:
   - component: {fileID: 1922280468}
   - component: {fileID: 1922280469}
   - component: {fileID: 1922280470}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (167)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -139406,7 +139603,7 @@ GameObject:
   - component: {fileID: 1924741902}
   - component: {fileID: 1924741901}
   - component: {fileID: 1924741900}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: 0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -139539,7 +139736,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1925329408}
   - component: {fileID: 1925329409}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -139783,7 +139980,7 @@ GameObject:
   - component: {fileID: 1928761268}
   - component: {fileID: 1928761267}
   - component: {fileID: 1928761269}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -139892,7 +140089,7 @@ GameObject:
   - component: {fileID: 1929293063}
   - component: {fileID: 1929293064}
   - component: {fileID: 1929293065}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (192)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -140025,7 +140222,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1933856615}
   - component: {fileID: 1933856616}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -140268,7 +140465,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1937307378}
   - component: {fileID: 1937307379}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -140674,7 +140871,7 @@ GameObject:
   - component: {fileID: 1945442949}
   - component: {fileID: 1945442948}
   - component: {fileID: 1945442950}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -141106,7 +141303,7 @@ GameObject:
   - component: {fileID: 1955109387}
   - component: {fileID: 1955109388}
   - component: {fileID: 1955109389}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (83)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -141861,7 +142058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1967141712}
   - component: {fileID: 1967141713}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -142509,7 +142706,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1984862032}
   - component: {fileID: 1984862033}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -142590,7 +142787,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1985510003}
   - component: {fileID: 1985510004}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -142752,7 +142949,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1987447324}
   - component: {fileID: 1987447325}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143158,7 +143355,7 @@ GameObject:
   - component: {fileID: 1993871837}
   - component: {fileID: 1993871836}
   - component: {fileID: 1993871838}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143346,7 +143543,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2000035282}
   - component: {fileID: 2000035283}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143913,7 +144110,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2009107054}
   - component: {fileID: 2009107055}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -144076,7 +144273,7 @@ GameObject:
   - component: {fileID: 2016686015}
   - component: {fileID: 2016686014}
   - component: {fileID: 2016686016}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -144427,7 +144624,7 @@ GameObject:
   - component: {fileID: 2021608551}
   - component: {fileID: 2021608550}
   - component: {fileID: 2021608552}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -144615,7 +144812,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2028719975}
   - component: {fileID: 2028719976}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -145263,7 +145460,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2038129737}
   - component: {fileID: 2038129738}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_70 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -145587,7 +145784,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2041073590}
   - component: {fileID: 2041073591}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -145669,7 +145866,7 @@ GameObject:
   - component: {fileID: 2041706780}
   - component: {fileID: 2041706779}
   - component: {fileID: 2041706781}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -146263,7 +146460,7 @@ GameObject:
   - component: {fileID: 2050152892}
   - component: {fileID: 2050152893}
   - component: {fileID: 2050152894}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (91)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -146533,7 +146730,7 @@ GameObject:
   - component: {fileID: 2058054159}
   - component: {fileID: 2058054158}
   - component: {fileID: 2058054160}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -146641,7 +146838,7 @@ GameObject:
   - component: {fileID: 2059843087}
   - component: {fileID: 2059843088}
   - component: {fileID: 2059843089}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (171)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -147964,7 +148161,7 @@ GameObject:
   - component: {fileID: 2087464831}
   - component: {fileID: 2087464830}
   - component: {fileID: 2087464832}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -148072,7 +148269,7 @@ GameObject:
   - component: {fileID: 2088177764}
   - component: {fileID: 2088177763}
   - component: {fileID: 2088177765}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -148261,7 +148458,7 @@ GameObject:
   - component: {fileID: 2092646160}
   - component: {fileID: 2092646161}
   - component: {fileID: 2092646162}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (191)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -148450,7 +148647,7 @@ GameObject:
   - component: {fileID: 2100422233}
   - component: {fileID: 2100422234}
   - component: {fileID: 2100422235}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_10 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -148639,7 +148836,7 @@ GameObject:
   - component: {fileID: 2102603723}
   - component: {fileID: 2102603724}
   - component: {fileID: 2102603725}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (101)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -148746,7 +148943,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2105236042}
   - component: {fileID: 2105236043}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -148990,7 +149187,7 @@ GameObject:
   - component: {fileID: 2115352808}
   - component: {fileID: 2115352807}
   - component: {fileID: 2115352809}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149097,7 +149294,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2116139316}
   - component: {fileID: 2116139317}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149178,7 +149375,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2116415754}
   - component: {fileID: 2116415755}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_73 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149827,7 +150024,7 @@ GameObject:
   - component: {fileID: 2127746336}
   - component: {fileID: 2127746335}
   - component: {fileID: 2127746337}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_8 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149934,7 +150131,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2130818278}
   - component: {fileID: 2130818279}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -150837,7 +151034,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2142309930}
   - component: {fileID: 2142309931}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_64 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -150918,7 +151115,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2143070455}
   - component: {fileID: 2143070456}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: hakaton_63 (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
